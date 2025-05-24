@@ -148,13 +148,13 @@ export default function Dashboard() {
 
           {/* 3D Model Section */}
           <div className="col-span-12 md:col-span-5 bg-white rounded-xl p-6 relative">
-            <div className="relative h-80 flex items-center justify-center">
+            <div className="relative h-80 flex items-center justify-center mt-14">
               <Image
                 src="https://img.freepik.com/free-photo/human-body-frontal_1048-5345.jpg?ga=GA1.1.630857417.1748083117&semt=ais_hybrid&w=740"
                 alt="Human Anatomy Model"
                 width={300}
                 height={400}
-                className="object-contain"
+                className="object-contain p-2 object-center"
               />
 
               {/* Heart Label */}
