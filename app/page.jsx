@@ -289,7 +289,7 @@ export default function Dashboard() {
                     <span className="font-medium">Dentist</span>
                   </div>
                   <div className="text-sm">09:00-11:00</div>
-                  <div className="text-sm">Dr. Lakshya</div>
+                  <div className="text-sm">Dr. james</div>
                 </div>
                 <div className="bg-indigo-100 rounded-xl p-4 text-indigo-900">
                   <div className="flex items-center gap-2 mb-2">
@@ -300,7 +300,7 @@ export default function Dashboard() {
                     <span className="font-medium">Physiotherapy Appointment</span>
                   </div>
                   <div className="text-sm">10:00-12:00</div>
-                  <div className="text-sm">Dr. Lakshya</div>
+                  <div className="text-sm">Dr. William </div>
                 </div>
               </div>
 
