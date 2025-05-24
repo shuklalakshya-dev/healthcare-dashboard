@@ -158,22 +158,22 @@ export default function Dashboard() {
               />
 
               {/* Heart Label */}
-              {/* <div className="absolute top-1/3 right-1/4 flex items-center">
+                <div className="absolute top-5 left-14 flex items-center"> 
                 <div className="bg-indigo-600 text-white text-xs py-1 px-3 rounded-full flex items-center gap-1">
                   <Heart size={12} className="text-red-300" />
                   <span>Healthy Heart</span>
                 </div>
                 <div className="w-6 h-0.5 bg-indigo-600"></div>
-              </div> */}
+              </div> 
 
               {/* Leg Label */}
-              {/* <div className="absolute bottom-1/4 left-1/4 flex items-center">
+              <div className="absolute bottom-1/4 left-1/4 flex items-center">
                 <div className="bg-cyan-500 text-white text-xs py-1 px-3 rounded-full flex items-center gap-1">
                   <Activity size={12} />
                   <span>Healthy Leg</span>
                 </div>
                 <div className="w-6 h-0.5 bg-cyan-500"></div>
-              </div> */}
+              </div>
             </div>
           </div>
 
