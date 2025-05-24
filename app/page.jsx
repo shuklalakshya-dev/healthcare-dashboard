@@ -150,7 +150,7 @@ export default function Dashboard() {
           <div className="col-span-12 md:col-span-5 bg-white rounded-xl p-6 relative">
             <div className="relative h-80 flex items-center justify-center">
               <Image
-                src="https://media.istockphoto.com/id/1143509838/vector/inner-organs-chart-anatomy-diagram-with-internal-organs-and-appropriate-names-isolated.jpg?s=2048x2048&w=is&k=20&c=b4MJSDvrpe5oO7X2SMeS7fCSI30Yr3BRUNklND66ofk="
+                src="https://img.freepik.com/free-photo/human-body-frontal_1048-5345.jpg?ga=GA1.1.630857417.1748083117&semt=ais_hybrid&w=740"
                 alt="Human Anatomy Model"
                 width={300}
                 height={400}
